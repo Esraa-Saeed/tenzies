@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tenzies/static/css/main.11cbf6a3.css",
+    "main.js": "/tenzies/static/js/main.ca812c5f.js",
+    "index.html": "/tenzies/index.html",
+    "main.11cbf6a3.css.map": "/tenzies/static/css/main.11cbf6a3.css.map",
+    "main.ca812c5f.js.map": "/tenzies/static/js/main.ca812c5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11cbf6a3.css",
+    "static/js/main.ca812c5f.js"
+  ]
+}
